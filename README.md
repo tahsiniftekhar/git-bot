@@ -15,3 +15,5 @@ A discord bot built around [discord.js](https://discord.js.org/) to make interac
 
 
 ## Pull Request Template
+
+Forked by Tahsin Iftekhar
